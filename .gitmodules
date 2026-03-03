@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "cograph"]
+	path = cograph
+	url = https://github.com/sonsoleslp/cograph
 [submodule "tna"]
 	path = tna
 	url = https://github.com/sonsoleslp/tna
