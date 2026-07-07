@@ -5,6 +5,9 @@
 [submodule "cograph"]
 	path = cograph
 	url = https://github.com/sonsoleslp/cograph
+[submodule "htna"]
+	path = htna
+	url = https://github.com/sonsoleslp/htna
 [submodule "tna"]
 	path = tna
 	url = https://github.com/sonsoleslp/tna
