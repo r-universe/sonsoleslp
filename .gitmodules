@@ -8,6 +8,9 @@
 [submodule "htna"]
 	path = htna
 	url = https://github.com/sonsoleslp/htna
+[submodule "litReview"]
+	path = litReview
+	url = https://github.com/sonsoleslp/litreview
 [submodule "tna"]
 	path = tna
 	url = https://github.com/sonsoleslp/tna
