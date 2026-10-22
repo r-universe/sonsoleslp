@@ -11,6 +11,9 @@
 [submodule "litReview"]
 	path = litReview
 	url = https://github.com/sonsoleslp/litreview
+[submodule "sbert"]
+	path = sbert
+	url = https://github.com/sonsoleslp/sbert
 [submodule "tna"]
 	path = tna
 	url = https://github.com/sonsoleslp/tna
